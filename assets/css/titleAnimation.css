@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+/* Styles généraux */
+* {
+    margin:0; 
+    padding:0; 
+    font-size:1em; 
+    box-sizing:border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+#headerWrapper {
+    padding: 10% 0%;
+}
+#mainTitle {
+    font-size: 6em;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 200;
+    text-align: center;
+    color: gray;
+}
+#titleContainer {
+    background: url(../img/portfolio.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 10% 0;
+    background-position: left;
+    height: 100vh;
+}
+
+.scrollButton {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;            
+}
+
+.scrollIcon {
+  transform: rotate(90deg) scale(2);
+  display: inline-block;
+  position: relative;
+  animation: 2.5s scrollIcon infinite;
+  color: gray;
+  text-decoration: none;
+}
+.scrollIcon:hover {
+  color: white;
+  text-decoration: none;
+}
+
+@keyframes scrollIcon {
+  0% {
+    opacity: 0;
+    top: 0; 
+  } 
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    top: 15px;
+  }
+}
