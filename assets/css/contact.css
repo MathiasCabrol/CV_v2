@@ -150,7 +150,7 @@
   }
   textarea { 
   resize: vertical; 
-  height:16px;
+  height:18px;
   }
   
   .app-form-control::placeholder {

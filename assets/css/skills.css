@@ -25,14 +25,20 @@ body {
       typing 3.5s steps(30, end),
       blink-caret .5s step-end infinite;
   }
+.skillsSubTitle {
+  color: #fff;
+  font-family: monospace;
+  letter-spacing: .15em;
+  font-size: 22px;
+}
 
-  @media (max-width: 1100px) {
-    .container-fluid > .row {
-        margin-top: 6em;
-    }
-    .skillsTitle {
-        font-size: 20px;
-    }
+@media (max-width: 1100px) {
+  .container-fluid > .row {
+    margin-top: 6em;
+  }
+  .skillsTitle {
+    font-size: 20px;
+  }
 }
   
   /* The typing effect */
@@ -82,3 +88,24 @@ body {
       top: 15px;
     }
   }
+
+.iconsCol {
+  margin-top: 2em;
+  background-color: white;
+  border-top: 3px solid #D3D3D3;
+  border-bottom: 3px solid #D3D3D3;
+  transform: rotate(359deg);
+}
+
+.iconsCol i {
+  margin: 10px 20px;
+  /* color: #edc7b7; */
+  color: #AC3B61;
+}
+
+.icon {
+  height: 4em;
+  width: auto;
+  color: #AC3B61;
+  vertical-align: middle;
+}
