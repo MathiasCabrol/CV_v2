@@ -37,24 +37,58 @@
                 <h2 class="skillsSubTitle mt-4">Front-End</h2>
             </div>
             <div class="col-12 text-center iconsCol mb-5">
-            <i class="fab fa-html5 fa-5x"></i>
-            <i class="fab fa-css3-alt fa-5x"></i>
-            <i class="fab fa-bootstrap fa-5x"></i>
-            <i class="fab fa-js-square fa-5x"></i>
-            <i class="fab fa-react fa-5x"></i>
+                <i class="fab fa-html5 fa-5x"></i>
+                <i class="fab fa-css3-alt fa-5x"></i>
+                <i class="fab fa-bootstrap fa-5x"></i>
+                <i class="fab fa-js-square fa-5x"></i>
+                <i class="fab fa-react fa-5x"></i>
             </div>
             <div class="col-12 text-center">
                 <h2 class="skillsSubTitle mt-5">Back-End et outils</h2>
             </div>
             <div class="col-12 text-center iconsCol">
-            <i class="fab fa-php fa-5x"></i>
-            <i class="fab fa-symfony fa-5x"></i>
-            <i class="fab fa-wordpress fa-5x"></i>
-            <i class="fab fa-github-square fa-5x"></i>
+                <i class="fab fa-php fa-5x"></i>
+                <i class="fab fa-symfony fa-5x"></i>
+                <i class="fab fa-wordpress fa-5x"></i>
+                <i class="fab fa-github-square fa-5x"></i>
             </div>
+            <div class="col-8 text-center mt-3">
+                <h2 class="skillsSubTitle mt-5">Formation</h2>
+                <div class="col-12 experienceCol mt-4">
+                    <p class="organisationName mt-3">Mars 2022</p>
+                    <p class="organisationText">Executive Program Developpement web (Titre professionnel : Développement web et web mobile Bac+2 )</p>
+                    <p class="organisationName mb-3"><strong>LA MANU, l'Ecole Supérieure des Métiers du Numérique - Versailles</strong></p>
+                </div>
+            </div>
+            <div class="col-8 text-center mt-3">
+                <h2 class="skillsSubTitle mt-5">Expériences professionnelles</h2>
+                <div class="col-12 experienceCol mt-4">
+                    <p class="organisationName mt-4">Mai 2021 - Octobre 2021</p>
+                    <p class="organisationText">Agent de réservation</p>
+                    <p class="organisationName mb-4"><strong>MGM HÔTELS & RÉSIDENCES - PROMOTEUR IMMOBILIER - MEYTHET</strong></p>
+                    <hr>
+                    <p class="organisationName mt-4">Septembre 2020 - Mars 2021</p>
+                    <p class="organisationText">Assistant commercial</p>
+                    <p class="organisationName mb-4"><strong>L'ORATOIRE - TRAITEUR ÉVÈNEMENTIEL - SILLINGY</strong></p>
+                    <hr>
+                    <p class="organisationName mt-4">Décembre 2019 - Avril 2020</p>
+                    <p class="organisationText">Chef concierge</p>
+                    <p class="organisationName mb-4"><strong>LA FOLIE DOUCE HÔTEL - CHAMONIX MONT-BLANC</strong></p>
+                    <hr>
+                    <p class="organisationName mt-4">Février 2019 - Octobre 2019</p>
+                    <p class="organisationText">Hospitality operator</p>
+                    <p class="organisationName mb-4"><strong>COSTA CROCIERE - MER BALTIQUE - COSTA MAGICA (5000 PASSAGERS)</strong></p>
+                </div>
+            </div>
+
         </div>
     </div>
-    
+    <footer>
+        <div class="footerIcons">
+        <a target="blank" href="https://github.com/MathiasCabrol"><i class="fab fa-github-alt fa-3x"></i></a>
+        <a target="blank" href="https://fr.linkedin.com/in/mathias-cabrol-2911b4198"><i class="fab fa-linkedin fa-3x"></i></a>
+        </div>
+    </footer>
 </body>
 
 </html>

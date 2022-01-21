@@ -32,8 +32,8 @@
     </div>
   </main>
   <footer>
-      <i class="fab fa-github-square fa-3x icon"></i>
-      <i class="fab fa-linkedin fa-3x icon"></i>
+    <a target="blank" href="https://github.com/MathiasCabrol"><i class="fab fa-github-square fa-3x icon"></i></a>
+    <a target="blank" href="https://fr.linkedin.com/in/mathias-cabrol-2911b4198"><i class="fab fa-linkedin fa-3x icon"></i></a>
   </footer>
 </body>
 <script src="../assets/js/slider.js"></script>

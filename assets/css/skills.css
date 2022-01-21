@@ -119,3 +119,49 @@ body {
   margin-top: 50px;
   margin-bottom: 50px;
 }
+
+.organisationText {
+  color: #AC3B61;
+  font-family: 'Dongle', sans-serif;
+  font-size: 22px;
+  padding : 0;
+  margin : 0;
+}
+
+.organisationName {
+  color: #AC3B61;
+  font-family: 'Dongle', sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  padding : 0;
+  margin : 0;
+}
+
+.experienceCol {
+  background-color: white;
+  border: 3px solid #D3D3D3;
+  border-radius: 5px;
+}
+
+.experienceCol hr {
+  height: 3px;
+}
+
+.scotch2 {
+  background-color: transparent;
+}
+
+.footerIcons {
+  text-align: center;
+}
+
+.footerIcons i {
+  margin: 30px 20px;
+  padding: 10px;
+  color: #AC3B61;
+}
+
+.footerIcons i:hover {
+  cursor: pointer;
+  color: white;
+}
