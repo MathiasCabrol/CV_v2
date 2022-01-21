@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Dongle&display=swap');
+
 * {
     border-style: border-box;
 }
@@ -108,4 +110,12 @@ body {
   width: auto;
   color: #AC3B61;
   vertical-align: middle;
+}
+
+.normalText {
+  color: white;
+  font-family: 'Dongle', sans-serif;
+  font-size: 22px;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }

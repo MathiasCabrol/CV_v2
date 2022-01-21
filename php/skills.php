@@ -27,7 +27,12 @@
                 </div>
             </div>
         </div>
-        <div class="row">
+        <div class="row justify-content-center">
+            <div class="normalText col-12 col-md-8 text-center">
+                <p>Étant imprégné de la culture numérique depuis mon plus jeune âge, je me suis notamment professionalisé grâce au diplome de développeur web et web mobile, obtenu à l'école "La Manu" de Versailles.</p>
+                <p>Ci-dessous les technos maitrisées ainsi que mon parcours professionnel.</p>
+                <p>Je suis impatient de découvrir le projet que vous représentez !</p>
+            </div>
             <div class="col-12 text-center">
                 <h2 class="skillsSubTitle mt-4">Front-End</h2>
             </div>
