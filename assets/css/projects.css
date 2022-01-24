@@ -22,7 +22,7 @@
     transition: opacity .5s ease-out;
 }
 
-.projectCaption > button {
+a > button {
     width: 30%;
     background: transparent;
     border-radius: 6px;
@@ -30,7 +30,7 @@
     color: #fff;
 }
 
-.projectCaption > button:hover {
+a > button:hover {
     background: solid;
     background-color: black;
     transform: scale(1.1);
@@ -45,3 +45,15 @@
     margin: 10px;
 }
 
+footer {
+    background-color: #CBC3E3;
+    margin-top: 100px;
+}
+
+footer i {
+    color: white;
+}
+
+footer i:hover {
+    color: black;
+}

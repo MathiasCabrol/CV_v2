@@ -15,6 +15,7 @@
 
 <body>
     <?php include 'nav.php'; ?>
+    <?php include 'arrow.php'; ?>
     <div class="container-fluid">
         <div class="row justify-content-center">
             <div class="col-12 col-md-8 text-center">
@@ -85,7 +86,7 @@
     </div>
     <footer>
         <div class="footerIcons">
-        <a target="blank" href="https://github.com/MathiasCabrol"><i class="fab fa-github-alt fa-3x"></i></a>
+        <a target="blank" href="https://github.com/MathiasCabrol"><i class="fab fa-github-square fa-3x"></i></a>
         <a target="blank" href="https://fr.linkedin.com/in/mathias-cabrol-2911b4198"><i class="fab fa-linkedin fa-3x"></i></a>
         </div>
     </footer>
