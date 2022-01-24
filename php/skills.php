@@ -15,7 +15,6 @@
 
 <body>
     <?php include 'nav.php'; ?>
-    <?php include 'arrow.php'; ?>
     <div class="container-fluid">
         <div class="row justify-content-center">
             <div class="col-12 col-md-8 text-center">
