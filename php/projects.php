@@ -34,8 +34,8 @@
             <div class="col-5 projectContainer mt-5 p-2 text-center">
                 <div class="projectCaption">
                     <img src="../assets/img/Projet2.png" class="projectImage">
-                    <a href="https://github.com/MathiasCabrol/il-padrino" target="blank"><button class="my-4" type="button"><i class="fab fa-github mr-2"></i>Code source</button></a>
-                    <a href="https://mathiascabrol.github.io/il-padrino/ilpadrino.html" target="blank"><button class="my-4" type="button"><i class="fas fa-wifi mr-2"></i>Version Live</button></a>
+                    <button class="my-4" type="button" onclick="window.open('https:/\/github.com/MathiasCabrol/il-padrino', '_blank')"><i class="fab fa-github mr-2"></i>Code source</button>
+                    <button class="my-4" type="button" onclick="window.open('https:/\/mathiascabrol.github.io/il-padrino/ilpadrino.html', '_blank')"><i class="fas fa-wifi mr-2"></i>Version Live</button>
                     <p class="projectText text-white">Support web vitrine pour une pizzeria fictive, initiation aux principes de bases en html, css et bootstrap. Projet de groupe et application méthodes agiles.</p>
                     <i class="fab fa-html5 fa-3x"></i>
                     <i class="fab fa-css3-alt fa-3x"></i>
@@ -45,8 +45,8 @@
             <div class="col-5 projectContainer mt-5 p-2 text-center">
                 <div class="projectCaption">
                     <img src="../assets/img/Projet3.png" class="projectImage">
-                    <a href="https://github.com/MathiasCabrol/CatShop" target="blank"><button class="my-4" type="button"><i class="fab fa-github mr-2"></i>Code source</button></a>
-                    <a href="https://mathiascabrol.github.io/CatShop/" target="blank"><button class="my-4" type="button"><i class="fas fa-wifi mr-2"></i>Version Live</button></a>
+                    <button class="my-4" type="button" onclick="window.open('https:/\/github.com/MathiasCabrol/CatShop', '_blank')"><i class="fab fa-github mr-2"></i>Code source</button>
+                    <button class="my-4" type="button" onclick="window.open('https:/\/mathiascabrol.github.io/CatShop/', '_blank')"><i class="fas fa-wifi mr-2"></i>Version Live</button>
                     <p class="projectText text-white">Projet de création de boutique en ligne pour animalerie, en SPA, avec système de panier entièrement en javascript, utilisation de fichiers Json.</p>
                     <i class="fab fa-html5 fa-3x"></i>
                     <i class="fab fa-css3-alt fa-3x"></i>
@@ -57,8 +57,8 @@
             <div class="col-5 projectContainer mt-5 p-2 text-center">
                 <div class="projectCaption">
                     <img src="../assets/img/Projet4.png" class="projectImage">
-                    <a href="https://github.com/MathiasCabrol/Projet-POO-RPG-V2" target="blank"><button class="my-4" type="button"><i class="fab fa-github mr-2"></i>Code source</button></a>
-                    <a href="https://le-donjon-de-mordrynn.herokuapp.com/" target="blank"><button class="my-4" type="button"><i class="fas fa-wifi mr-2"></i>Version Live</button></a>
+                    <button class="my-4" type="button" onclick="window.open('https:/\/github.com/MathiasCabrol/Projet-POO-RPG-V2', '_blank')"><i class="fab fa-github mr-2"></i>Code source</button>
+                    <button class="my-4" type="button" onclick="window.open('https:/\/le-donjon-de-mordrynn.herokuapp.com/', '_blank')"><i class="fas fa-wifi mr-2"></i>Version Live</button>
                     <p class="projectText text-white">Initiation à la POO, utilisation de classes et méthodes magiques. Mise à jour des statistiques en temps réel et génération de personnages aléatoire. </p>
                     <i class="fab fa-html5 fa-3x"></i>
                     <i class="fab fa-css3-alt fa-3x"></i>
@@ -69,7 +69,7 @@
             <div class="col-5 projectContainer mt-5 p-2 text-center">
                 <div class="projectCaption">
                     <img src="../assets/img/Projet5.png" class="projectImage">
-                    <a href="https://github.com/MathiasCabrol/Theme-Wordpress-Sand" target="blank"><button class="my-4" type="button"><i class="fab fa-github mr-2"></i>Code source</button></a>
+                    <button class="my-4" type="button" onclick="window.open('https:/\/github.com/MathiasCabrol/Theme-Wordpress-Sand', '_blank')"><i class="fab fa-github mr-2"></i>Code source</button>
                     <p class="projectText text-white">Création d'un thème wordpress personalisé. Utilisation des différents hooks spécifiques wordpress. Adaptation aux différents contenus édités. </p>
                     <i class="fab fa-html5 fa-3x"></i>
                     <i class="fab fa-css3-alt fa-3x"></i>
@@ -81,8 +81,8 @@
             <div class="col-5 projectContainer mt-5 p-2 text-center">
                 <div class="projectCaption">
                     <img src="../assets/img/Projet6.png" class="projectImage">
-                    <a href="https://github.com/MathiasCabrol/countries-ReactJS" target="blank"><button class="my-4" type="button"><i class="fab fa-github mr-2"></i>Code source</button></a>
-                    <a href="https://countries-reactbuild.herokuapp.com/" target="blank"><button class="my-4" type="button"><i class="fas fa-wifi mr-2"></i>Version Live</button></a>
+                    <button class="my-4" type="button" onclick="window.open('https:/\/github.com/MathiasCabrol/countries-ReactJS', '_blank')"><i class="fab fa-github mr-2"></i>Code source</button>
+                    <button class="my-4" type="button" onclick="window.open('https:/\/countries-reactbuild.herokuapp.com/'"><i class="fas fa-wifi mr-2"></i>Version Live</button>
                     <p class="projectText text-white">Projet API en react permettant d'afficher les différents pays, de les trier par continent et d'afficher les données respectives.</p>
                     <i class="fab fa-html5 fa-3x"></i>
                     <i class="fab fa-css3-alt fa-3x"></i>
