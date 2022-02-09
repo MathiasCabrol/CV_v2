@@ -36,22 +36,22 @@
                     </div>
                     <div class="screen-body-item">
                         <div class="app-form">
-                            <form method="post" action="">
+                            <form method="post" action="https://formspree.io/f/myyoeany">
                                 <div class="app-form-group">
-                                    <input class="app-form-control" name="name" placeholder="NOM">
+                                    <input class="app-form-control" id="nameInput" name="name" placeholder="NOM" required="required">
                                 </div>
                                 <div class="app-form-group">
-                                    <input class="app-form-control" name="email" placeholder="EMAIL">
+                                    <input class="app-form-control" id="emailInput" name="email" placeholder="EMAIL" required="required">
                                 </div>
                                 <div class="app-form-group">
-                                    <input class="app-form-control" name="phone" placeholder="TELEPHONE">
+                                    <input class="app-form-control" id="phoneInput" name="phone" placeholder="TELEPHONE" required="required">
                                 </div>
                                 <div class="app-form-group message">
-                                    <textarea class="app-form-control" name="message" placeholder="MESSAGE"></textarea>
+                                    <textarea class="app-form-control" id="messageInput" name="message" placeholder="MESSAGE" required="required"></textarea>
                                 </div>
                                 <div class="app-form-group buttons">
-                                    <button class="app-form-button">RETOUR</button>
-                                    <button class="app-form-button">ENVOYER</button>
+                                    <button id="undo" type="button" class="app-form-button">RETOUR</button>
+                                    <button id="send" type="submit" class="app-form-button">ENVOYER</button>
                                 </div>
                             </form>
                         </div>
@@ -61,5 +61,5 @@
         </div>
     </div>
 </body>
-
+<script src="../assets/js/formControl.js"></script>
 </html>

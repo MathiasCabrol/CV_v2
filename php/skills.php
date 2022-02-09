@@ -9,7 +9,6 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="../assets/css/nav.css">
     <link rel="stylesheet" href="../assets/css/skills.css">
-    <link rel="stylesheet" href="../assets/css/caroussel.css">
     <title>Document</title>
 </head>
 
@@ -17,10 +16,10 @@
     <?php include 'nav.php'; ?>
     <div class="container-fluid">
         <div class="row justify-content-center">
-            <div class="col-12 col-md-8 text-center">
+            <div class="col-12 col-md-8 col-lg-8 text-center">
                 <img class="avatar" src="../assets/img/Avatar.png">
             </div>
-            <div>
+            <div classe="col-12 col-md-8 col-lg-8">
                 <h1 class="skillsTitle">Développeur web</h1>
                 <div class="scrollButton">
                     <a href="#mainContainer" class="scrollIcon">></a>
