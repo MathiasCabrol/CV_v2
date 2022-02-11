@@ -87,7 +87,7 @@
                 <div class="projectCaption">
                     <img src="../assets/img/Projet6.png" class="projectImage">
                     <button class="my-4" type="button" onclick="window.open('https:/\/github.com/MathiasCabrol/countries-ReactJS', '_blank')"><i class="fab fa-github mr-2"></i>Code source</button>
-                    <button class="my-4" type="button" onclick="window.open('https:/\/countries-reactbuild.herokuapp.com/'"><i class="fas fa-wifi mr-2"></i>Version Live</button>
+                    <button class="my-4" type="button" onclick="window.open('https:/\/countries-reactbuild.herokuapp.com/')"><i class="fas fa-wifi mr-2"></i>Version Live</button>
                     <p class="projectText text-white">Projet API en react permettant d'afficher les différents pays, de les trier par continent et d'afficher les données respectives.</p>
                     <i class="fab fa-html5 fa-3x"></i>
                     <i class="fab fa-css3-alt fa-3x"></i>
