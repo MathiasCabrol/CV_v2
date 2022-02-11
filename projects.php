@@ -26,13 +26,6 @@
         <div class="row justify-content-around">
             <div class="col-5 projectContainer mt-5 p-2 text-center">
                 <div class="projectCaption">
-                    <img src="../assets/img/Projet1.png" class="projectImage">
-                    <p class="projectText text-white my-5">Mise en place de site e-commerce wordpress. Optimisation SEO, politiques de confidentialité, rédaction d'artciles et de contenu.</p>
-                    <i class="fab fa-wordpress fa-3x"></i>
-                </div>
-            </div>
-            <div class="col-5 projectContainer mt-5 p-2 text-center">
-                <div class="projectCaption">
                     <img src="../assets/img/Projet2.png" class="projectImage">
                     <button class="my-4" type="button" onclick="window.open('https:/\/github.com/MathiasCabrol/il-padrino', '_blank')"><i class="fab fa-github mr-2"></i>Code source</button>
                     <button class="my-4" type="button" onclick="window.open('https:/\/mathiascabrol.github.io/il-padrino/ilpadrino.html', '_blank')"><i class="fas fa-wifi mr-2"></i>Version Live</button>
@@ -76,6 +69,18 @@
                     <i class="fab fa-bootstrap fa-3x"></i>
                     <i class="fab fa-php fa-3x"></i>
                     <i class="fab fa-wordpress fa-3x"></i>
+                </div>
+            </div>
+            <div class="col-5 projectContainer mt-5 p-2 text-center">
+                <div class="projectCaption">
+                    <img src="../assets/img/pharmasoins.png" class="projectImage">
+                    <button class="my-4" type="button" onclick="window.open('https:/\/github.com/MathiasCabrol/Projet-PharmaSoins', '_blank')"><i class="fab fa-github mr-2"></i>Code source</button>
+                    <button class="my-4" type="button" onclick="window.open('http:/\/pharmasoins.fr.nf/', '_blank')"><i class="fas fa-wifi mr-2"></i>Version Live</button>
+                    <p class="projectText text-white">Création d'un intranet pour hopital liaison à une bdd en utilisant PDO et les requêtes SQL.</p>
+                    <i class="fab fa-html5 fa-3x"></i>
+                    <i class="fab fa-css3-alt fa-3x"></i>
+                    <i class="fab fa-php fa-3x"></i>
+                    <i class="fab fa-js-square fa-3x"></i>
                 </div>
             </div>
             <div class="col-5 projectContainer mt-5 p-2 text-center">
