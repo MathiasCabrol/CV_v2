@@ -30,6 +30,12 @@
     color: #fff;
 }
 
+@media (max-width: 768px){
+    .projectCaption button {
+        width: 35%;
+    }    
+}
+
 .projectCaption button:hover {
     background: solid;
     background-color: black;

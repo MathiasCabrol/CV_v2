@@ -24,7 +24,7 @@
     </div>
     <div id="mainContainer" class="container-fluid pt-5">
         <div class="row justify-content-around">
-            <div class="col-5 projectContainer mt-5 p-2 text-center">
+            <div class="col-12 col-md-5 col-lg-5 projectContainer mt-5 p-2 text-center">
                 <div class="projectCaption">
                     <img src="../assets/img/Projet2.png" class="projectImage">
                     <button class="my-4" type="button" onclick="window.open('https:/\/github.com/MathiasCabrol/il-padrino', '_blank')"><i class="fab fa-github mr-2"></i>Code source</button>
@@ -35,7 +35,7 @@
                     <i class="fab fa-bootstrap fa-3x"></i>
                 </div>
             </div>
-            <div class="col-5 projectContainer mt-5 p-2 text-center">
+            <div class="col-12 col-md-5 col-lg-5 projectContainer mt-5 p-2 text-center">
                 <div class="projectCaption">
                     <img src="../assets/img/Projet3.png" class="projectImage">
                     <button class="my-4" type="button" onclick="window.open('https:/\/github.com/MathiasCabrol/CatShop', '_blank')"><i class="fab fa-github mr-2"></i>Code source</button>
@@ -47,7 +47,7 @@
                     <i class="fab fa-js-square fa-3x"></i>
                 </div>
             </div>
-            <div class="col-5 projectContainer mt-5 p-2 text-center">
+            <div class="col-12 col-md-5 col-lg-5 projectContainer mt-5 p-2 text-center">
                 <div class="projectCaption">
                     <img src="../assets/img/Projet4.png" class="projectImage">
                     <button class="my-4" type="button" onclick="window.open('https:/\/github.com/MathiasCabrol/Projet-POO-RPG-V2', '_blank')"><i class="fab fa-github mr-2"></i>Code source</button>
@@ -59,7 +59,7 @@
                     <i class="fab fa-php fa-3x"></i>
                 </div>
             </div>
-            <div class="col-5 projectContainer mt-5 p-2 text-center">
+            <div class="col-12 col-md-5 col-lg-5 projectContainer mt-5 p-2 text-center">
                 <div class="projectCaption">
                     <img src="../assets/img/Projet5.png" class="projectImage">
                     <button class="my-4" type="button" onclick="window.open('https:/\/github.com/MathiasCabrol/Theme-Wordpress-Sand', '_blank')"><i class="fab fa-github mr-2"></i>Code source</button>
@@ -71,7 +71,7 @@
                     <i class="fab fa-wordpress fa-3x"></i>
                 </div>
             </div>
-            <div class="col-5 projectContainer mt-5 p-2 text-center">
+            <div class="col-12 col-md-5 col-lg-5 projectContainer mt-5 p-2 text-center">
                 <div class="projectCaption">
                     <img src="../assets/img/pharmasoins.png" class="projectImage">
                     <button class="my-4" type="button" onclick="window.open('https:/\/github.com/MathiasCabrol/Projet-PharmaSoins', '_blank')"><i class="fab fa-github mr-2"></i>Code source</button>
@@ -83,7 +83,7 @@
                     <i class="fab fa-js-square fa-3x"></i>
                 </div>
             </div>
-            <div class="col-5 projectContainer mt-5 p-2 text-center">
+            <div class="col-12 col-md-5 col-lg-5 projectContainer mt-5 p-2 text-center">
                 <div class="projectCaption">
                     <img src="../assets/img/Projet6.png" class="projectImage">
                     <button class="my-4" type="button" onclick="window.open('https:/\/github.com/MathiasCabrol/countries-ReactJS', '_blank')"><i class="fab fa-github mr-2"></i>Code source</button>
