@@ -147,10 +147,7 @@
     outline: none;
     transition: border-color .2s;
   }
-  textarea { 
-  resize: vertical; 
-  height:18px;
-  }
+ 
   
   .app-form-control::placeholder {
     color: #666;
