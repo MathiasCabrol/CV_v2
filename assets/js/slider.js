@@ -17,7 +17,7 @@ const sliderImages = [
     link: "projects.php",
   },
   {
-    title: "Compétences",
+    title: "Skills",
     src: "../assets/img/Skills.jpg",
     text: "Court résumé",
     link: "skills.php",
