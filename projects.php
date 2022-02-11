@@ -80,6 +80,7 @@
                     <i class="fab fa-html5 fa-3x"></i>
                     <i class="fab fa-css3-alt fa-3x"></i>
                     <i class="fab fa-php fa-3x"></i>
+                    <i><img class="mysql" src="../assets/img/mysql.png"></i>
                     <i class="fab fa-js-square fa-3x"></i>
                 </div>
             </div>
