@@ -5,11 +5,19 @@ footer {
     right: 4%;
     color: white;
 }
+
+@media (min-width:768px) and (max-width: 1300px){
+    footer { 
+        width: 20%;
+    }
+}
+
 @media (max-width: 768px) {
     footer { 
         width: 30%;
     }
 }
+
 .icon {
     margin-left: 0.1em;
     margin-right: 0.1em;
