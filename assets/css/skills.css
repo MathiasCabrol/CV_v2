@@ -8,8 +8,8 @@ body {
     background-color: #edc7b7
 }
 .avatar {
-    width: 60%;
-    height: 100%;
+    width: 37%;
+    height: auto;
     border-radius: 10px;
 }
 .skillsTitle {

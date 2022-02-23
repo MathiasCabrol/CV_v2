@@ -16,7 +16,7 @@
     <?php include 'nav.php'; ?>
     <div class="container-fluid">
         <div class="row justify-content-center">
-            <div class="col-12 col-md-8 col-lg-8 col-xl-8 text-center">
+            <div class="col-12 col-md-12 col-lg-12 col-xl-12 text-center">
                 <img class="avatar" src="../assets/img/Avatar.png">
             </div>
             <div classe="col-12 col-md-8 col-lg-8 col-xl-8">
